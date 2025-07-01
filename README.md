@@ -3,12 +3,12 @@ This project is all about building a robust foundation in web development by foc
 
 Through a series of incremental tasks, I'll be learning to:
 
--**Master Semantic HTML:** Properly structure web content using tags like <header>, <main>, <article>, <section>, and <footer> for better organization and inherent accessibility.
+  -**Master Semantic HTML:** Properly structure web content using tags like <header>, <main>, <article>, <section>, and <footer> for better organization and inherent accessibility.
 
--**Optimize for SEO:** Utilize appropriate meta tags and sound document structure to boost webpage visibility.
+  -**Optimize for SEO:** Utilize appropriate meta tags and sound document structure to boost webpage visibility.
 
--**Enhance Accessibility:** Implement ARIA roles and attributes to ensure content and forms are accessible to users with disabilities.
+  -**Enhance Accessibility:** Implement ARIA roles and attributes to ensure content and forms are accessible to users with disabilities.
 
--**Design User-Friendly Forms:** Apply best practices for creating accessible and intuitive web forms.
+  -**Design User-Friendly Forms:** Apply best practices for creating accessible and intuitive web forms.
 
 This project emphasizes progressive enhancement, building on each task to deepen my understanding of these crucial modern web development practices. It's about making the web better for all!
