@@ -3,7 +3,7 @@ This project is all about building a robust foundation in web development by foc
 
 Through a series of incremental tasks, I'll be learning to:
 
-  -**Master Semantic HTML:** Properly structure web content using tags like <header>, <main>, <article>, <section>, and <footer> for better organization and inherent accessibility.
+  -**Master Semantic HTML:** Properly structure web content using tags like `<header>`, `<main>`, `<article>`, `<section>`, and `<footer>` for better organization and inherent accessibility.
 
   -**Optimize for SEO:** Utilize appropriate meta tags and sound document structure to boost webpage visibility.
 
